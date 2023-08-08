@@ -80,3 +80,6 @@ Stop Event:
 
 **-Daily news (Growtopia Gazzete) should be saved to external file and not in source for easier modifying**
 (Done, news.txt)
+
+**Disable all loging to console and log everything to file, this will free up console for CLI**
+(Not Yet)
