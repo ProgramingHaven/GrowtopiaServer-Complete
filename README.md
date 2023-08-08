@@ -46,12 +46,12 @@ Usage:
 (Not Yet)
 
 **-Write event pool - this is used to delay actions**
-```
 Include:
+```
 EventPool eventPool;
 ```
-```
 Add Event:
+```
    eventPool.addEventListener<MyEvent>([]() {
         std::cout << "MyEvent triggered!" << std::endl;
         // Simulate heavy computation
@@ -59,19 +59,19 @@ Add Event:
         std::cout << "MyEvent processing complete." << std::endl;
     });
 ```
-```
 Start Event:
+```
    eventPool.startEventProcessingThreads(2);
 ```
-```
 Trigger Event:
+```
    eventPool.triggerEventAsync<MyEvent>();
 ```
-```
 Sleep Action:
+```
    std::this_thread::sleep_for(std::chrono::seconds(1));
 ```
-```
 Stop Event:
+```
    eventPool.stopEventProcessingThreads();
 ```
