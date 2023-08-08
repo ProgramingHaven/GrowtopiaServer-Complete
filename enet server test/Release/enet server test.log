@@ -1,0 +1,100 @@
+﻿  stdafx.cpp
+  enet server test.cpp
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\crypt_blowfish\crypt_blowfish.cpp(899,18): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\bcrypt.cpp(118,6): warning C4101: 'fd': unreferenced local variable
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(637,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(655,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(660,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(664,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(705,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(876,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(967,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(976,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(986,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1002,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1041,14): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1154,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1277,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1348,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1373,19): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1678,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1688,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1764,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1774,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1938,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1938,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1938,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1939,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1939,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1939,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1940,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1940,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1940,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1942,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1947,125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1947,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1947,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1948,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1948,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1948,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1949,124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1949,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1949,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1951,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1962,122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1962,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1962,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1963,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1963,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1963,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1964,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1964,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1964,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(1966,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2048,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2049,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2057,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2066,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2067,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2080,69): warning C4018: '>': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2198,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2144,14): warning C4101: 'e': unreferenced local variable
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2437,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2438,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2441,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2473,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2474,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2477,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2494,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2500,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2570,19): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2633,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2634,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2650,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2725,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(2900,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3182,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3183,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3207,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3207,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3267,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3419,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3646,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3646,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3658,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3658,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(3895,25): warning C4309: '=': truncation of constant value
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4066,22): warning C4309: '=': truncation of constant value
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4212,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4213,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4221,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4222,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4032,16): warning C4101: 'currentPeer': unreferenced local variable
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(4258,19): warning C4101: 'e': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\gtps6\Desktop\GrowtopiaServer-master\enet server test\enet server test.cpp(239): warning C4715: 'ch2n': not all control paths return a value
+  All 2067 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  enet server test.vcxproj -> C:\Users\gtps6\Desktop\GrowtopiaServer-master\Release\enet server test.exe

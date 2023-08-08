@@ -1,0 +1,8 @@
+set_default_color|`o
+add_label_with_icon|big|`wThe GrowtopiaPS Gazette``|left|5016|
+add_spacer|small|bannerlayout|||
+add_spacer|small|
+add_textbox|GrowtopiaServer, Complete By Algonix and Krezio|left|
+add_spacer|small|
+add_textbox|MechaProductions, Felt like completing this project. And we did!|left|
+end_dialog|gazette||Okay|
