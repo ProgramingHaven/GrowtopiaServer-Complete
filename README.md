@@ -41,3 +41,6 @@ Usage:
 ```
 **Try possible to write multiple servers which only share between themselves possibly world list, player list and boardcast queue**
 (Not Yet)
+
+**Extend data which are saved now - there should be saved current clothes, inventory, login time, register time and maybe tracing hashes if you want to do proper ban system also in worlds there should be saved block extras (enabled, water, fire, etc.) and dropped items**
+(Not Yet)
