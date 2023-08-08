@@ -1,4 +1,4 @@
-# Growtopia Server ![Build Status](https://ci.appveyor.com/api/projects/status/github/GrowtopiaNoobs/GrowtopiaServer)
+# Growtopia Server ![Build Status](https://media.discordapp.net/attachments/1103007816471552050/1103007929449336836/68747470733a2f2f63692e6170707665796f722e636f6d2f6170692f70726f6a656374732f7374617475732f6769746875622f47726f77746f7069614e6f6f62732f47726f77746f706961536572766572.png)
 First Growtopia Private Server made with ENet, by GrowtopiaNoobs.
 
 This project has been compiled with Visual Studio 2022 and newer versions of VS or other compilers weren't tested.
