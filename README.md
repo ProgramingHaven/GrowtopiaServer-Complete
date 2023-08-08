@@ -16,7 +16,6 @@ Usage:
   // Create a load balancer with a certain number of worker threads
     LoadBalancer loadBalancer(4);
  ```
-```
 // Simulate incoming requests
     for (int i = 0; i < 10; ++i) {
         loadBalancer.addTask([]() {
