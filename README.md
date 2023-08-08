@@ -10,13 +10,13 @@ I Decided to complete his to-do list and share it with you guys
 
 # Growtopia Noobs's To-Do List
 
-**Refactor whole code, it is very hard readable and there might be problems with maintaining it**
+**-Refactor whole code, it is very hard readable and there might be problems with maintaining it**
 (Not Yet)
 
-**Try get some normal DB working or atleast save all files as BSON or some binary format**
+**-Try get some normal DB working or atleast save all files as BSON or some binary format**
 (Not Yet)
 
-**Write load balancer, it is very CPU expensive part because it calculates BCrypt hashes and access to database**
+**-Write load balancer, it is very CPU expensive part because it calculates BCrypt hashes and access to database**
 ```
 Usage:
   // Create a load balancer with a certain number of worker threads
@@ -39,8 +39,8 @@ Usage:
  // Allow some time for tasks to complete
     std::this_thread::sleep_for(std::chrono::seconds(15));
 ```
-**Try possible to write multiple servers which only share between themselves possibly world list, player list and boardcast queue**
+**-Try possible to write multiple servers which only share between themselves possibly world list, player list and boardcast queue**
 (Not Yet)
 
-**Extend data which are saved now - there should be saved current clothes, inventory, login time, register time and maybe tracing hashes if you want to do proper ban system also in worlds there should be saved block extras (enabled, water, fire, etc.) and dropped items**
+**-Extend data which are saved now - there should be saved current clothes, inventory, login time, register time and maybe tracing hashes if you want to do proper ban system also in worlds there should be saved block extras (enabled, water, fire, etc.) and dropped items**
 (Not Yet)
