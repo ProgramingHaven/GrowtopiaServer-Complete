@@ -8,6 +8,8 @@ This project has been published under GNU AFFERO GPL license, so you need to **p
 Before GrowtopiaNoobs left the community, GrowtopiaServer was made by him. That server source had errors, and a non completed to-do list.
 I Decided to complete his to-do list and share it with you guys
 
+**Growtopia Noobs's To-Do List** 
+
 [  ] Refactor whole code, it is very hard readable and there might be problems with maintaining it
 
 [  ] Try get some normal DB working or atleast save all files as BSON or some binary format
