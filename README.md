@@ -77,3 +77,5 @@ Stop Event:
 ```
 **-Make heavy events asynchronous with possibly some good thread count (probably one or two) and connect them to event pool or use callbacks**
 (Done, in event pool)
+**-Daily news (Growtopia Gazzete) should be saved to external file and not in source for easier modifying**
+(Done, news.txt)
