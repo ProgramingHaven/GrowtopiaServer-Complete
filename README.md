@@ -44,3 +44,34 @@ Usage:
 
 **-Extend data which are saved now - there should be saved current clothes, inventory, login time, register time and maybe tracing hashes if you want to do proper ban system also in worlds there should be saved block extras (enabled, water, fire, etc.) and dropped items**
 (Not Yet)
+
+**-Write event pool - this is used to delay actions**
+```
+Include:
+EventPool eventPool;
+```
+```
+Add Event:
+   eventPool.addEventListener<MyEvent>([]() {
+        std::cout << "MyEvent triggered!" << std::endl;
+        // Simulate heavy computation
+        std::this_thread::sleep_for(std::chrono::seconds(2));
+        std::cout << "MyEvent processing complete." << std::endl;
+    });
+```
+```
+Start Event:
+   eventPool.startEventProcessingThreads(2);
+```
+```
+Trigger Event:
+   eventPool.triggerEventAsync<MyEvent>();
+```
+```
+Sleep Action:
+   std::this_thread::sleep_for(std::chrono::seconds(1));
+```
+```
+Stop Event:
+   eventPool.stopEventProcessingThreads();
+```
