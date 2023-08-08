@@ -75,5 +75,5 @@ Stop Event:
 ```
    eventPool.stopEventProcessingThreads();
 ```
-**Make heavy events asynchronous with possibly some good thread count (probably one or two) and connect them to event pool or use callbacks**
+**-Make heavy events asynchronous with possibly some good thread count (probably one or two) and connect them to event pool or use callbacks**
 (Done, in event pool)
