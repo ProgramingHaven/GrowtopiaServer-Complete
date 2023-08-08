@@ -30,3 +30,8 @@ Usage:
         });
     }
  ```
+
+```
+ // Allow some time for tasks to complete
+    std::this_thread::sleep_for(std::chrono::seconds(15));
+```
