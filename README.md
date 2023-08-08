@@ -11,10 +11,12 @@ I Decided to complete his to-do list and share it with you guys
 [ ] Refactor whole code, it is very hard readable and there might be problems with maintaining it
 [ ] Try get some normal DB working or atleast save all files as BSON or some binary format
 [X] Write load balancer, it is very CPU expensive part because it calculates BCrypt hashes and access to database
+```
 Usage:
- ```// Create a load balancer with a certain number of worker threads
+  // Create a load balancer with a certain number of worker threads
     LoadBalancer loadBalancer(4);
  ```
+```
 // Simulate incoming requests
     for (int i = 0; i < 10; ++i) {
         loadBalancer.addTask([]() {
