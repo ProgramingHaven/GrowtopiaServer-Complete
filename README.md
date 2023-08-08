@@ -13,7 +13,7 @@ I Decided to complete his to-do list and share it with you guys
 [X] Write load balancer, it is very CPU expensive part because it calculates BCrypt hashes and access to database
 Usage:
  ```// Create a load balancer with a certain number of worker threads
-    LoadBalancer loadBalancer(4);```
+    LoadBalancer loadBalancer(4);
  ```
 // Simulate incoming requests
     for (int i = 0; i < 10; ++i) {
